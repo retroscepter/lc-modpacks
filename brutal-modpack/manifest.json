@@ -1,6 +1,6 @@
 {
   "name": "BrutalModpack",
-  "version_number": "1.0.1",
+  "version_number": "1.0.2",
   "website_url": "https://github.com/retroscepter/lc-modpacks",
   "description": "Brutal Company modpack for my friends, everything is preconfigured.",
   "dependencies": [
@@ -54,7 +54,6 @@
     "Mom_Llama-Lethal_Company_Enhancer-0.1.6",
     "FlipMods-LetMeLookDown-1.0.1",
     "RugbugRedfern-Skinwalkers-1.0.3",
-    "GameMasterDevs-GameMaster-3.1.1",
     "godlyteam-SmallLobby-1.0.2",
     "Clementinise-QuickTerminalRestart-1.0.3"
   ]
